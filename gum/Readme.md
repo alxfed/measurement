@@ -6,4 +6,10 @@ JCGM 101:2008 - Evaluation of measurement data – Supplement 1 to the "Guide to
 JCGM 102:2011 - Evaluation of measurement data – Supplement 2 to the "Guide to the expression of uncertainty in measurement" – Extension to any number of output quantities<br><br>
 JCGM 106:2012 - Evaluation of measurement data – The role of measurement uncertainty in conformity assessment<br><br>
 
-Missing: Evaluation of measurement data – Supplement 3 to the "Guide to the expression of uncertainty in measurement" – Modelling
+Under preparation:
+
+JCGM 103 – Evaluation of measurement data – Supplement 3 to the "Guide to the expression of uncertainty in measurement" – Modelling (ISO/IEC Guide 98-3-3)<br><br>
+JCGM 105 – Evaluation of measurement data – Concepts and basic principles (ISO/IEC Guide 98-2)<br><br>
+JCGM 107 – Evaluation of measurement data – Applications of the least-squares method (ISO/IEC Guide 98-5)<br><br>
+
+https://www.iso.org/sites/JCGM/GUM-introduction.htm
