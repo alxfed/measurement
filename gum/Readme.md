@@ -12,6 +12,6 @@ JCGM 103 – Evaluation of measurement data – Supplement 3 to the "Guide to th
 JCGM 105 – Evaluation of measurement data – Concepts and basic principles (ISO/IEC Guide 98-2)<br><br>
 JCGM 107 – Evaluation of measurement data – Applications of the least-squares method (ISO/IEC Guide 98-5)<br><br>
 
-https://www.iso.org/sites/JCGM/GUM-introduction.htm
-<br><br>
+https://www.bipm.org/en/publications/guides/#gum<br><br>
+https://www.iso.org/sites/JCGM/GUM-introduction.htm<br><br>
 Also: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3387884/
